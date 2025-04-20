@@ -52,16 +52,6 @@ pip install pandas numpy matplotlib seaborn nltk sklearn tensorflow imbalanced-l
 
 ---
 
-## How to Run
-
-### Steps:
-1. Clone or download the project repository.
-2. Place the dataset (`dataset.csv`) in the appropriate directory specified in the notebook.
-3. Install required libraries using the command above.
-4. Open the notebook `Text_Mining_ASM.ipynb` in Jupyter Notebook or any compatible IDE.
-5. Execute each cell sequentially to preprocess data, train models, and evaluate results.
-
----
 
 ## Outputs
 
